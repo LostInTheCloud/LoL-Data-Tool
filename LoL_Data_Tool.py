@@ -56,7 +56,7 @@ def file_check(name: str):
         print(
             "Error: '{:s}' does not exist in the current directory.\n\nMove the executable/script into your Data Folder.\n".format(name))
         input("PRESS ENTER TO CONTINUE")
-        exit(0)
+        raise SystemExit
     return fn
 
 
