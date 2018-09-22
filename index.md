@@ -3,3 +3,11 @@
   <img src="https://lennihein.github.io/Lol-Data-Tool/pages/download.png" alt="Download" height="114" width="251">
 </a>
 </center>
+
+## How to use
+
+Download the executable, move into your Data Folder, run!
+
+## How to use from Source
+
+Download/Clone Repository, run 'build.bat' to compile, or just run the Python Script
