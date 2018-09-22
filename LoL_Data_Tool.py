@@ -1,8 +1,8 @@
 from typing import List
 
 
-# python -m PyInstaller --onefile --icon=poro.ico LoL_Data_Tool.py
-
+# caution, ugly code    |
+#                       V
 
 def read_store_transactions() -> List[List[str]]:
     fp = file_check("storeTransactions.json")
