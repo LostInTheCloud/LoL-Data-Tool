@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --icon=poro.ico LoL_Data_Tool.py
