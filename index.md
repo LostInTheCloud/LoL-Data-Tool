@@ -6,8 +6,8 @@
 
 ## How to use
 
-Download the executable, move into your Data Folder, run!
+Download the executable, move into your Data folder, run!
 
 ## How to use from Source
 
-Download/Clone Repository, run 'build.bat' to compile, or just run the Python Script
+Download/Clone the repository, run 'build.bat' to compile, or just run the Python script.
