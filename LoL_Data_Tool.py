@@ -46,7 +46,7 @@ def check_money_spent():
     for i in range(len(batches)):
         txt = batches[i][8]
         sum_money += float(txt[13:len(txt) - 2])
-    print("Money Spent: {:.0f} (of you currency)\n".format(sum_money))
+    print("Money Spent: {:.0f} (of your currency)\n".format(sum_money))
 
 
 def file_check(name: str):
