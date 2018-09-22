@@ -12,4 +12,5 @@ Download the executable, move into your Data folder, run!
 
 Download/Clone the repository, run 'build.bat' to compile, or just run the Python script.
 
-<h4>Feel free to either contribute on Github or via Email: computerscience[at]uni-bonn.de</h4>
+#### Feel free to either contribute on Github or via Email: computerscience[at]uni-bonn.de
+
