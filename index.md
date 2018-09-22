@@ -1,6 +1,6 @@
 <center>
 <a href="https://github.com/lennihein/Lol-Data-Tool/raw/master/dist/LoL_Data_Tool.exe">
-  <img src="/pages/download.png" alt="Download" height="114" width="251">
+  <img src="https://lennihein.github.io/LoL-Data-Tool/pages/download.png" alt="Download" height="114" width="251">
 </a>
 </center>
 
