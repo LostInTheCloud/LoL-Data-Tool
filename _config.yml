@@ -1,4 +1,4 @@
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 
 # Name of your site (displayed in the header)
 name: LoL Data Tool
@@ -12,4 +12,5 @@ description: Converting .json into something useful!
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/LoL-Data-Tool"
+# baseurl: "/LoL-Data-Tool"
+# not required for cname
